@@ -1,0 +1,43 @@
+.header1 .container {
+  display: flex;
+  justify-content: space-between;
+
+  .left-head1 {
+    display: flex;
+    gap: 30px;
+    span {
+      font-size: 12px;
+      font-weight: 800;
+    }
+  }
+}
+.header1 {
+  background-color: #f9f9ff;
+  padding: 18px;
+}
+.right-head1 a {
+  text-decoration: none;
+  color: black;
+  font-weight: 800;
+}
+.header2 .container{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.header2{
+    margin-top: 10px;
+}
+.right-head2 ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    li{
+        font-weight: 750;
+       }
+}
+.fa-chevron-up{
+    font-size: 12px;
+    font-weight: 900;
+}

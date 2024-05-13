@@ -1,0 +1,113 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men",
+      "image": "https://preview.colorlib.com/theme/shop/img/l5.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": "2",
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "men",
+      "image": "https://preview.colorlib.com/theme/shop/img/l6.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": "3",
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "men",
+      "image": "https://preview.colorlib.com/theme/shop/img/l7.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": "4",
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men",
+      "image": "https://preview.colorlib.com/theme/shop/img/l8.jpg",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": "5",
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men",
+      "image": "data:image/jpeg;base64,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",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": "6",
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "men",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR30ufKTl1O-soYVsCJ-BVLlIkUYFLIQXMBdA&usqp=CAU",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": "8",
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xE27Uega_kb9cs-PK1_xLMKN-ncKhqKoqQ&usqp=CAU",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": "15",
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "women",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTRV9KU90GWlDs6BZOEkPAB8GuoovDdXm_-g&usqp=CAU",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      }
+    },
+    {
+      "id": "16",
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": "women",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtMjgm-J3R2N0LiwK3ek3b380zRE6hp0mNfQ&usqp=CAU",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
+    }
+   
+  ]
+}
